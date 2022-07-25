@@ -1,0 +1,2 @@
+# schema.cfd
+CloudFormed Schemas
